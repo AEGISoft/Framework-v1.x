@@ -1,19 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specs.Framework", "Specs.Framework\Specs.Framework.csproj", "{E4361256-E059-4830-BFD1-9AD651083061}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Continuous Release", "Continuous Release", "{6467C508-7549-478D-BD7B-20045569A819}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{A05CC394-09D1-4C65-81AE-05253585FEDB}"
-	ProjectSection(SolutionItems) = preProject
-		Continuous Release\scripts\Build.script = Continuous Release\scripts\Build.script
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "properties", "properties", "{F51405E7-A6ED-4829-9684-48B73A7826E1}"
-	ProjectSection(SolutionItems) = preProject
-		Continuous Release\properties\solution.properties = Continuous Release\properties\solution.properties
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,9 +18,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{A05CC394-09D1-4C65-81AE-05253585FEDB} = {6467C508-7549-478D-BD7B-20045569A819}
-		{F51405E7-A6ED-4829-9684-48B73A7826E1} = {6467C508-7549-478D-BD7B-20045569A819}
 	EndGlobalSection
 EndGlobal
