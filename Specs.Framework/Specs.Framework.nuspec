@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>AEGIS.Specs.Framework.dll</id>
-    <version>$version$</version>
+    <version>1.0.$version$</version>
     <authors>olivier.costa</authors>
     <owners>AEGISoft.be</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
